@@ -40,7 +40,7 @@
       <img class="furdivleft" src="/furnace/assets/placeholder.png" alt="placeholder"/>
       <div class="furdivright">
       <h1>system and sound chip galore.</h1>
-      <p>supports nearly every old-school 8-bit/16-bit system out there! from the Atari 2600 and Commodore PET to SNES, Genesis and arcades, you'll feel at home with the vast selection of systems Furnace supports.</p>
+      <p>explore a vast wealth of oldschool soundchip with limitless chip combinations. supports nearly every old-school 8-bit/16-bit system out there! from the Atari 2600 and Commodore PET to SNES, Genesis and arcades, you'll feel at home with the vast selection of systems Furnace supports.</p>
       <div class="fursub">
         <input type="checkbox" id="chips" name="source code"/>
         <label for="chips">want to see more? click here.</label>
